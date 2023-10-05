@@ -1,0 +1,341 @@
+    1  ls
+    2  ls
+    3  git clone https://github.com/michalkolaaa/CSCI-330B_git.git
+    4  ls
+    5  git clone https://github.com/michalkolaaa/CSCI-330B_git.git
+    6  mkdir CSCI-330B
+    7  cd CSCI-330B
+    8  ls
+    9  git add *
+   10  git commit -m Adding test text file
+   11  ls
+   12  cd CSCI-330B_git/
+   13  ls
+   14  touch test.txt
+   15  ls
+   16  echo "# CSCI-330B_git" 
+   17  git init
+   18  gid add README.md
+   19  git add README.md
+   20  git commit -m "first commit"
+   21  git add*
+   22  git add *
+   23  ls
+   24  git commit -m "Adding test text file."
+   25  ls
+   26  git.push
+   27  git push
+   28  ls
+   29  cd CSCI-330B_git/
+   30  git brunuch
+   31  git branch 
+   32  git branch branching_practice 
+   33  git branch
+   34  git status
+   35  git checkout branching_practice
+   36  ls
+   37  branch status
+   38  git status
+   39  open readme.md
+   40  git open readme.md
+   41  help
+   42  start readme.md
+   43  ls
+   44  start test.txt
+   45  ls
+   46  touch text.txt
+   47  git branch main
+   48  git checkout main
+   49  ls
+   50  ls
+   51  git add *
+   52  ls
+   53  git status
+   54  git pull
+   55  ls
+   56  start README.md 
+   57  git add *
+   58  git push 
+   59  start README.md 
+   60  git add *
+   61  git commit
+   62  ls
+   63  cd CSCI-330B_git/
+   64  ls
+   65  git commit -m 
+   66  git commit --m 
+   67  git commit -m "Woah this works" 
+   68  git push
+   69  start README.md 
+   70  git status
+   71  git add README.md
+   72  git commit -m "updated readme"
+   73  git push
+   74  git status
+   75  start README.md 
+   76  git status
+   77  git add *
+   78  git commit -m "updated readme"
+   79  git push
+   80  clone amy-huddell/lab-1 
+   81  clear
+   82  git clone <amy-huddell/lab-1>
+   83  cd CSCI-330B_git/
+   84  git clone <amy-huddell/lab-1>
+   85  help clone
+   86  help
+   87  clear
+   88  git clone <https://github.com/amy-huddell/lab-1.git>
+   89  git clone https://github.com/amy-huddell/lab-1.git
+   90  commit hisotry
+   91  git commit -h
+   92  git commit history
+   93  clear
+   94  git status
+   95  commit
+   96  git commit
+   97  git commit track
+   98  git branch
+   99  git branching_practice
+  100  git branch branching_practice
+  101  git status
+  102  git checkout main
+  103  git checkout branching_practice
+  104  branch status
+  105  git log
+  106  git main
+  107  git branch main
+  108  git checkout main
+  109  git log 
+  110  gh repo clone amy-huddell/lab-1
+  111  git repo clone <amy-huddell/lab-1>
+  112  git repo clone amy-huddell/lab-1
+  113  git grep amy-huddell/lab-1
+  114  ls
+  115  cd CSCI-330B_git
+  116  ls
+  117  cd lab-1/
+  118  ls
+  119  cd ~
+  120  cd CSCI-330B_git/
+  121  git log lab-1
+  122  cd lab-1/
+  123  git branch
+  124  git log
+  125  cd ~/CSCI-330B_git/
+  126  git clone <michalkolaaa/lab-1.git>
+  127  git clone michalkolaaa/lab-1.git
+  128  cd ~
+  129  git clone <michalkolaaa/lab-1.git>
+  130  git clone michalkolaaa/lab-1.git
+  131  git clone michalkolaaa/lab-1
+  132  git clone https://github.com/michalkolaaa/lab-1
+  133  gir remote -v 
+  134  cd lab-1/
+  135  git remote -v
+  136  git branch dev
+  137  git branch
+  138  git branch status
+  139  git log
+  140  git branch log
+  141  git branch log
+  142  git branch dev
+  143  git branch dev
+  144  git branch dev
+  145  git branch
+  146  git branch new_branch
+  147  ls
+  148  git checkout dev
+  149  git checkount -b
+  150  git checkout -b
+  151  git statys
+  152  git status
+  153  git branch <dev>
+  154  git branch decv
+  155  git branch main
+  156  git branch main*
+  157  git branch status
+  158  git status
+  159  git branch
+  160  git remote -v
+  161  git branch dev
+  162  git checkout -b
+  163  git checkout dev main
+  164  git branch -M main
+  165  git branch
+  166  git branch dev
+  167  git init
+  168  git branch
+  169  git add *
+  170  git add*
+  171  git add "*"
+  172  ks
+  173  ls
+  174  git init lab-1
+  175  ls
+  176  rm -r lab-1
+  177  ls
+  178  branch
+  179  git branch
+  180  git add .
+  181  git commit -m "Initial commit"
+  182  git branch dev
+  183  git checkout -b main
+  184  git branch dev
+  185  git checkout dev
+  186  git checkout -b dev
+  187  git add "HelloWorld.py" -m took me a minute to get here
+  188  git add HelloWorld.py -m "took me a minute to get here"
+  189  git add HelloWorld.py
+  190  ls'
+  191  ls
+  192  clear
+  193  ls
+  194  cd lab-1/
+  195  git add HelloWorld.py
+  196  branch
+  197  git branch
+  198  git branch dev
+  199  git add .
+  200  git init
+  201  git branch
+  202  git branch status
+  203  git statyus
+  204  git status
+  205  git log
+  206  git add HelloWorld.py
+  207  git add HelloWorld.py
+  208  ls
+  209  git status
+  210  git add HelloWorld.py
+  211  cd ~
+  212  ls
+  213  cd CSCI-330B_git
+  214  cd lab-1/
+  215  git add HelloWorld.py 
+  216  git branch dev
+  217  git status
+  218  git -b dev
+  219  git branch -b devb
+  220  git branch -b dev
+  221  git checkout -b dev
+  222  git branch dev
+  223  git dev
+  224  git checkout dev
+  225  git add HelloWorld.py
+  226  ls
+  227  code HelloWorld.py 
+  228  git clone https://github.com/amy-huddell/lab-1
+  229  ls
+  230  git rm -r lab-1
+  231  ls
+  232  cd lab-1/
+  233  ls
+  234  rm -r lab-1
+  235  cd ~
+  236  rm -r lab-1
+  237  ls
+  238  git clone https://github.com/amy-huddell/lab-1
+  239  cd lab-1/
+  240  git log
+  241  git remote -v
+  242  git remote set-url origin https://github.com/michalkolaaa/lab-1
+  243  git remote -v
+  244  git checkout -b dev
+  245  open HelloWorld.py
+  246  git open HelloWorld.py
+  247  git add HelloWorld.py
+  248  code HelloWorld.py 
+  249  git commit -m "This took 1.5h of reaserch but it hopefully works now"
+  250  git status
+  251  git add HelloWorld.py
+  252  git commit -m "This took 1.5h of reaserch but it hopefully works now"\
+  253  git push
+  254  git statys
+  255  git status
+  256  git merge 
+  257  ls
+  258  git rm -r README.md 
+  259  git merge dev
+  260  git push origin main
+  261  history >> history.txt
+  262  ls
+  263  code history.txt
+  264  git merge
+  265  git push origin main
+  266  cd main
+  267  git checkout main
+  268  ls
+  269  git push
+  270  gir remote add origin https://github.com/michalkolaaa/lab-1
+  271  git remote add origin https://github.com/michalkolaaa/lab-1
+  272  git status
+  273  git add history.txt 
+  274  git push\
+  275  git remote add origin https://github.com/michalkolaaa/lab-1
+  276  git branch
+  277  git checkout dev
+  278  git rm -r REAdME.md
+  279  git rm -r README.md
+  280  ls
+  281  git merge main
+  282  ls
+  283  git checkout main
+  284  ls
+  285  git add.
+  286  git add .
+  287  git push origin main
+  288  git push
+  289  ls
+  290  cd /~
+  291  ~
+  292  ls
+  293  cd ~
+  294  rm -r lab-1/
+  295  ls
+  296  rm -r lab-1
+  297  ls
+  298  rm -r lab/1
+  299  rm -r lab-1
+  300  ls
+  301  mkdir lab-1
+  302  cd lab-1/
+  303  git clone https://github.com/amy-huddell/lab-1
+  304  git log
+  305  ls
+  306  cd lab-1/
+  307  git log
+  308  git remote -v
+  309  git remote set-url origin https://github.com/michalkolaaa/lab-1
+  310  git remote -v
+  311  git checkout -b dev
+  312  git add .
+  313  git commit -m "Initial commit"
+  314  git add HelloWorld.py
+  315  code HelloWorld.py 
+  316  git commit -m "Updating my name"
+  317  git add HelloWorld.py
+  318  ls
+  319  git rm -r README.md
+  320  git merge 
+  321  git merge orgin main
+  322  git merge main
+  323  git checkout main
+  324  ls
+  325  git push -f origin main
+  326  ls
+  327  code HelloWorld.py 
+  328  git push
+  329  git remote -v
+  330  git commit
+  331  cd lab-1/
+  332  ls
+  333  cd lab-1/
+  334  ls
+  335  git push
+  336  git commit - 'tis' not commiting'
+  337  ':x'
+  338  s
+  339  cd lab-1/
+  340  cd lab-1/
+  341  history > history.txt
